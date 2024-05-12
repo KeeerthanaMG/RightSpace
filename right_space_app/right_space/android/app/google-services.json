@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714586356827",
+    "project_id": "right-space-ivt5bp",
+    "storage_bucket": "right-space-ivt5bp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714586356827:android:77a09a491f39297df1d37e",
+        "android_client_info": {
+          "package_name": "com.mycompany.rightspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeKo-5DHiENai0_2Z3rzpens5fH7AhO1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
